@@ -10,3 +10,5 @@ with DAG(
 ):
 
     EmptyOperator(task_id="task")
+
+    EmptyOperator(task_id="task2")
